@@ -4,5 +4,5 @@
 clear
 echo "hello"
 echo "What is your name? "
-read answer
+read name
 echo "Nice to meet you $name"
